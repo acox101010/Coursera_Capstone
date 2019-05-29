@@ -1,0 +1,12 @@
+Prop_ID,Zip Code,SF,Price(SF),Total Lease (yr),Address,Dist_to_line(mi),Dest,Time(min)
+1,28203,7656,15,114840,1420 S Mint St,0.5,501 Bland,11
+2,28206,5000,15,75000,1217 Tryon St N,0.8,9th St Station,16
+3,28206,5000,8.5,42500,216 W 24th St,0.4,Charlotte Station,7
+4,28206,17234,5.5,94787,406 W 32nd St,1,36th St Station,21
+5,28206,54552,3.95,215480.4,3001 N Graham St,1.5,36th St Station,29
+6,28206,11835,4.95,58583.25,453 Atando Ave,1,36th St Station,21
+7,28206,140030,3.95,553118.5,4001 Raleigh St,0.2,Sugar Creek Station,3
+8,28203,3754,12,45048,432 Foster Ave,0.4,Newbern Station,9
+9,28208,156419,4.6,719527.4,1700 Parker Dr,1.9,East/West Station,40
+10,28208,32400,7.5,243000,1923 John Crossland Jr Dr,3.1,East/West Station,63
+11,28208,18400,7,128800,3931 Glenwood Dr,3.5,Stonewall Station,70
